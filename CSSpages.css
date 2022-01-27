@@ -1,0 +1,86 @@
+/* ------------ start section mybreadcrumb ------------ */
+.mybreadcrumb{
+	background-color: #f5f5f5;
+	padding-top: 50px;
+}
+
+.breadcrumb{
+	padding:10px 0;
+	margin: 0;
+	
+}
+/* ------------ end section mybreadcrumn ------------ */
+
+/* ------------ start section aboutUs ------------ */
+
+.aboutUs{
+	padding: 70px 0;
+}
+.aboutUs h1{
+	font-family: 'Cardo';
+	letter-spacing: -3px;
+	font-size: 62px;
+}
+.aboutUs hr{
+	width: 65%;
+}
+
+/* ------------ end section aboutUs ------------ */
+
+/* ------------ start section MyFeatures ------------ */
+
+.MyFeatures{
+	padding: 0 0 70px;
+}
+.MyFeatures h3{
+	font-family: 'Cardo';	
+	letter-spacing: -1px;
+}
+.MyFeatures p{margin-bottom: 20px;}
+/* ------------ end section MyFeatures ------------ */
+
+/* ------------ start section SEO ------------ */
+.CEO{
+	background-color: #eee;
+	padding-top: 40px;
+}
+.CEO h2{
+	font-family: 'Cardo';	
+}
+.CEO .lead{
+	line-height: 1.8;
+}
+.CEO .btn-primary{
+	background-color: #333;
+	border-color: #333;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
+/* ------------ end section SEO ------------ */
+
+
+/* ------------ start section FAQ ------------ */
+.FAQ h1{
+	font-family: 'Cardo';
+	letter-spacing: -3px;
+	font-size: 65px;
+}
+
+
+/* ------------ end section FAQ ------------ */
+
+.FAQ h1 ~ hr {
+	width: 65%;
+}
+.faqQuestions .panel-heading{
+	padding: 20px 15px;
+}
+.faqQuestions .panel-heading a:after{
+	font-family: 'Cardo';
+	content: "\2a";
+	float: right;
+	color: #444;
+	
+}
+
